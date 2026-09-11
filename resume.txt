@@ -1,0 +1,104 @@
+ALI EMAD
+Telecommunications & Electronics Engineer
+
+CONTACT INFORMATION
+Email: Aliemadali531@gmail.com
+Phone: +20 102 087 4481
+Location: Al-Mansheyya Al-Kubra, Kafr Shukr, Qalyubia Governorate, Egypt
+LinkedIn: https://www.linkedin.com/in/ali-emad-8866a3307
+
+PROFESSIONAL SUMMARY
+Dedicated and ambitious Telecommunications & Electronics Engineer with comprehensive knowledge of mobile network technologies spanning 1G through 5G. Proficient in drive testing, RF engineering, network planning, and network performance monitoring. Experienced in integrating AI/ML solutions for intelligent network monitoring and failure prediction. Seeking an entry-level position in network planning, RF engineering, or network optimization to leverage technical expertise and contribute to innovative telecommunications solutions.
+
+EDUCATION
+Bachelor of Engineering in Telecommunications & Electronics
+Al-Madinah Higher Institute of Engineering and Technology
+Expected Graduation: 2026
+GPA: 2.96/4.0
+
+PROFESSIONAL EXPERIENCE
+Technical Trainee - Telecom Package Program
+AFRO Academy | June 2024 – July 2024
+- Completed comprehensive technical training in telecommunications fundamentals and advanced network technologies
+- Gained hands-on experience in mobile network architecture, drive testing, and network planning
+- Developed practical skills in RF engineering and network performance monitoring
+- Participated in real-world telecommunications projects and case studies
+
+PROFESSIONAL CERTIFICATIONS & TRAINING
+- Telecom Package - Technical Training | AFRO Academy
+- GSM, GPRS, EDGE and 2G Drive Test and Post-Processing | Netova
+- CDMA, UMTS, HSPA and 3G Drive Test and Post-Processing | Netova
+- LTE, LTE-A, LTE-A Pro and 4G Planning | Netova
+- 5G SA, 5G NSA and 5G RF Planning | Netova
+- Telecom and RF Engineering Training | Netova
+
+TECHNICAL SKILLS
+Mobile Network Technologies:
+- 1G, 2G, 3G, 4G, and 5G Networks
+- GSM, GPRS, EDGE, CDMA, UMTS, and HSPA Protocols
+- LTE, LTE-A, LTE-A Pro, 5G SA, and 5G NSA Technologies
+
+Network Analysis & Planning:
+- Drive Test and Post-Processing
+- LTE Network Planning
+- 5G RF Planning and Design
+- RF Engineering Fundamentals
+- Network Performance Monitoring
+- TEMS Investigation
+
+Tools & Technologies:
+- TEMS Investigation Suite
+- Network Simulators and Analysis Tools
+- RF Planning Software
+- IoT Platforms (Raspberry Pi, ESP Modules)
+- Cloud Services for Data Collection and Monitoring
+- Machine Learning Models (Random Forest)
+- Python Programming
+
+Additional Skills:
+- Network Performance Analysis
+- Failure Prediction and Troubleshooting
+- Real-Time Data Collection and Analysis
+- IoT Integration
+
+CAPSTONE PROJECT
+AI-Based Smart Network Monitoring and Failure Prediction System
+
+Project Overview:
+Developed an innovative AI-based system designed to monitor network performance in real-time and predict potential failures before they occur, enabling proactive network management and improved service reliability.
+
+Key Responsibilities & Achievements:
+- Designed and implemented a comprehensive network monitoring system capable of collecting and analyzing real-time network parameters including RSSI, RSRP, RSRQ, SINR, latency, and packet loss
+- Developed and trained a Random Forest machine learning model to accurately predict network stability and identify potential connection drops
+- Integrated multiple IoT devices, including Raspberry Pi and ESP modules, with cloud services to facilitate seamless real-time data collection and centralized monitoring
+- Applied advanced network performance analysis concepts to support proactive troubleshooting methodologies and enable data-driven failure prediction
+- Demonstrated proficiency in combining telecommunications knowledge with modern AI/ML techniques to address real-world network challenges
+
+Technologies Used:
+- Machine Learning (Python, Random Forest Algorithm)
+- IoT Platforms (Raspberry Pi, ESP Modules)
+- Cloud Services and Data Analytics
+- Network Performance Analysis Tools
+
+PROFESSIONAL COMPETENCIES
+Communication:
+- Excellent interpersonal and presentation abilities
+- Capable of explaining complex technical concepts clearly to both technical and non-technical audiences
+- Professional English proficiency suitable for workplace communication
+
+Analytical Skills:
+- Strong capability to analyze complex network data and identify performance issues
+- Proficient in interpreting RF parameters and network metrics
+- Experienced in data-driven decision making and problem solving
+
+Time Management:
+- Effectively prioritize and manage multiple tasks and projects simultaneously
+- Capable of meeting strict project deadlines while maintaining high-quality deliverables
+- Experienced in working efficiently within structured training and project environments
+
+LANGUAGES
+- Arabic: Native Fluency
+- English: Good Professional Proficiency
+
+---
+Last Updated: September 2024
