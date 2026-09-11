@@ -1,182 +1,368 @@
 %PDF-1.4
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 7 0 R
+>>
 endobj
 4 0 obj
-<< /Length 8500 >>
-stream
-BT
-/F1 20 Tf
-50 750 Td
-(ALI EMAD) Tj
-0 -5 Td
-/F2 11 Tf
-(Telecommunications & Electronics Engineer) Tj
-0 -15 Td
-/F3 9 Tf
-(Email: Aliemadali531@gmail.com | Phone: +20 102 087 4481) Tj
-0 -12 Td
-(Location: Al-Mansheyya Al-Kubra, Kafr Shukr, Qalyubia, Egypt) Tj
-0 -12 Td
-(LinkedIn: https://www.linkedin.com/in/ali-emad-8866a3307) Tj
-0 -30 Td
-/F1 14 Tf
-(PROFESSIONAL SUMMARY) Tj
-0 -12 Td
-/F3 9 Tf
-(Dedicated and ambitious Telecommunications & Electronics Engineer with comprehensive knowledge) Tj
-0 -11 Td
-(of mobile network technologies spanning 1G through 5G. Proficient in drive testing, RF engineering,) Tj
-0 -11 Td
-(network planning, and network performance monitoring. Experienced in integrating AI/ML solutions) Tj
-0 -11 Td
-(for intelligent network monitoring and failure prediction.) Tj
-0 -30 Td
-/F1 14 Tf
-(EDUCATION) Tj
-0 -12 Td
-/F2 10 Tf
-(Bachelor of Engineering in Telecommunications & Electronics) Tj
-0 -11 Td
-/F3 9 Tf
-(Al-Madinah Higher Institute of Engineering and Technology) Tj
-0 -10 Td
-(Expected Graduation: 2026 | GPA: 2.96/4.0) Tj
-0 -30 Td
-/F1 14 Tf
-(PROFESSIONAL EXPERIENCE) Tj
-0 -12 Td
-/F2 10 Tf
-(Technical Trainee - Telecom Package Program) Tj
-0 -10 Td
-/F3 9 Tf
-(AFRO Academy | June 2024 – July 2024) Tj
-0 -10 Td
-(\267 Completed comprehensive technical training in telecommunications fundamentals) Tj
-0 -10 Td
-(\267 Gained hands-on experience in mobile network architecture and drive testing) Tj
-0 -10 Td
-(\267 Developed practical skills in RF engineering and network performance monitoring) Tj
-0 -30 Td
-/F1 14 Tf
-(PROFESSIONAL CERTIFICATIONS) Tj
-0 -12 Td
-/F3 9 Tf
-(\267 Telecom Package - Technical Training | AFRO Academy) Tj
-0 -10 Td
-(\267 GSM, GPRS, EDGE and 2G Drive Test and Post-Processing | Netova) Tj
-0 -10 Td
-(\267 CDMA, UMTS, HSPA and 3G Drive Test and Post-Processing | Netova) Tj
-0 -10 Td
-(\267 LTE, LTE-A, LTE-A Pro and 4G Planning | Netova) Tj
-0 -10 Td
-(\267 5G SA, 5G NSA and 5G RF Planning | Netova) Tj
-0 -10 Td
-(\267 Telecom and RF Engineering Training | Netova) Tj
-0 -30 Td
-/F1 14 Tf
-(TECHNICAL SKILLS) Tj
-0 -12 Td
-/F2 10 Tf
-(Mobile Network Technologies:) Tj
-0 -10 Td
-/F3 9 Tf
-(1G, 2G, 3G, 4G, and 5G Networks | GSM, GPRS, EDGE, CDMA, UMTS, HSPA) Tj
-0 -10 Td
-(LTE, LTE-A, LTE-A Pro, 5G SA, 5G NSA Technologies) Tj
-0 -12 Td
-/F2 10 Tf
-(Network Analysis & Planning:) Tj
-0 -10 Td
-/F3 9 Tf
-(Drive Test and Post-Processing | LTE Network Planning | 5G RF Planning) Tj
-0 -10 Td
-(RF Engineering Fundamentals | Network Performance Monitoring | TEMS Investigation) Tj
-0 -12 Td
-/F2 10 Tf
-(Tools & Technologies:) Tj
-0 -10 Td
-/F3 9 Tf
-(TEMS Investigation Suite | Network Simulators | RF Planning Software) Tj
-0 -10 Td
-(IoT Platforms (Raspberry Pi, ESP Modules) | Cloud Services | Python Programming) Tj
-0 -10 Td
-(Machine Learning Models (Random Forest) | Network Performance Analysis Tools) Tj
-0 -30 Td
-/F1 14 Tf
-(CAPSTONE PROJECT) Tj
-0 -12 Td
-/F2 10 Tf
-(AI-Based Smart Network Monitoring and Failure Prediction System) Tj
-0 -11 Td
-/F3 9 Tf
-(\267 Designed and implemented a comprehensive network monitoring system for real-time analysis) Tj
-0 -10 Td
-(\267 Collected and analyzed network parameters: RSSI, RSRP, RSRQ, SINR, latency, packet loss) Tj
-0 -10 Td
-(\267 Developed Random Forest ML model to predict network stability and connection drops) Tj
-0 -10 Td
-(\267 Integrated IoT devices (Raspberry Pi, ESP modules) with cloud services) Tj
-0 -10 Td
-(\267 Applied network performance analysis for proactive troubleshooting) Tj
-0 -12 Td
-/F2 10 Tf
-(Technologies Used:) Tj
-0 -10 Td
-/F3 9 Tf
-(Python | Machine Learning | IoT Platforms | Cloud Services | Data Analytics) Tj
-0 -30 Td
-/F1 14 Tf
-(PROFESSIONAL COMPETENCIES) Tj
-0 -12 Td
-/F2 10 Tf
-(Communication:) Tj
-0 -10 Td
-/F3 9 Tf
-(Excellent interpersonal abilities | Clear technical explanation skills) Tj
-0 -10 Td
-(Professional English proficiency for workplace communication) Tj
-0 -12 Td
-/F2 10 Tf
-(Analytical Skills:) Tj
-0 -10 Td
-/F3 9 Tf
-(Strong capability to analyze complex network data | RF parameter interpretation expertise) Tj
-0 -10 Td
-(Data-driven decision making and problem-solving) Tj
-0 -12 Td
-/F2 10 Tf
-(Time Management:) Tj
-0 -10 Td
-/F3 9 Tf
-(Effectively prioritize multiple tasks and projects | Meet strict deadlines) Tj
-0 -10 Td
-(Work efficiently within structured environments) Tj
-0 -30 Td
-/F1 14 Tf
-(LANGUAGES) Tj
-0 -12 Td
-/F3 9 Tf
-(\267 Arabic: Native Fluency) Tj
-0 -10 Td
-(\267 English: Good Professional Proficiency) Tj
-ET
-endstream
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+>>
 endobj
 7 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Length 6800
+>>
+stream
+BT
+/F1 24 Tf
+50 740 Td
+(ALI EMAD) Tj
+ET
+BT
+/F3 11 Tf
+50 720 Td
+(Telecommunications & Electronics Engineer) Tj
+ET
+BT
+/F5 9 Tf
+50 705 Td
+(Email: Aliemadali531@gmail.com | Phone: +20 102 087 4481 | LinkedIn: linkedin.com/in/ali-emad-8866a3307) Tj
+ET
+BT
+/F5 9 Tf
+50 693 Td
+(Location: Al-Mansheyya Al-Kubra, Kafr Shukr, Qalyubia Governorate, Egypt) Tj
+ET
+BT
+/F1 12 Tf
+50 670 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F5 10 Tf
+50 655 Td
+[(Highly motivated Telecommunications & Electronics Engineer with in-depth expertise in mobile network) -50 (technologies,) -50 (RF engineering, and network optimization. Proficient in 2G through 5G network architectures,) -50 (drive testing, network planning, and performance monitoring. Demonstrated ability to apply advanced) -50 (machine learning techniques for intelligent network monitoring and predictive failure analysis. Seeking an) -50 (entry-level position to leverage technical knowledge and drive innovation in telecommunications solutions.)] TJ
+ET
+BT
+/F1 12 Tf
+50 600 Td
+(CORE COMPETENCIES) Tj
+ET
+BT
+/F5 9 Tf
+50 587 Td
+(Mobile Network Technologies: GSM, GPRS, EDGE, CDMA, UMTS, HSPA, LTE, LTE-A, LTE-A Pro, 5G SA, 5G NSA) Tj
+ET
+BT
+/F5 9 Tf
+50 576 Td
+(Network Analysis: Drive Test, Post-Processing, LTE Planning, 5G RF Planning, RF Engineering, TEMS Investigation) Tj
+ET
+BT
+/F5 9 Tf
+50 565 Td
+(Technical Skills: Python, Machine Learning, IoT (Raspberry Pi, ESP modules), Cloud Services, Network Simulators) Tj
+ET
+BT
+/F5 9 Tf
+50 554 Td
+(Professional Skills: Communication, Analytical Skills, Time Management, Problem-Solving, Data Analysis) Tj
+ET
+BT
+/F1 12 Tf
+50 530 Td
+(EDUCATION) Tj
+ET
+BT
+/F5 10 Tf
+50 517 Td
+(Bachelor of Engineering in Telecommunications & Electronics) Tj
+ET
+BT
+/F5 9 Tf
+50 504 Td
+(Al-Madinah Higher Institute of Engineering and Technology | Expected Graduation: 2026) Tj
+ET
+BT
+/F5 9 Tf
+50 493 Td
+(Cumulative GPA: 2.96/4.0) Tj
+ET
+BT
+/F1 12 Tf
+50 470 Td
+(PROFESSIONAL EXPERIENCE) Tj
+ET
+BT
+/F5 10 Tf
+50 457 Td
+(Technical Trainee - Telecom Package Program) Tj
+ET
+BT
+/F5 9 Tf
+50 445 Td
+(AFRO Academy, Egypt | June 2024 - July 2024) Tj
+ET
+BT
+/F5 9 Tf
+60 432 Td
+(\226) Tj
+/F5 9 Tf
+70 432 Td
+(Completed intensive technical training in telecommunications fundamentals and advanced network technologies) Tj
+ET
+BT
+/F5 9 Tf
+60 421 Td
+(\226) Tj
+/F5 9 Tf
+70 421 Td
+(Gained hands-on experience in mobile network architectures, drive testing procedures, and network optimization) Tj
+ET
+BT
+/F5 9 Tf
+60 410 Td
+(\226) Tj
+/F5 9 Tf
+70 410 Td
+(Developed proficiency in RF engineering principles and network performance monitoring techniques) Tj
+ET
+BT
+/F5 9 Tf
+60 399 Td
+(\226) Tj
+/F5 9 Tf
+70 399 Td
+(Participated in comprehensive telecommunications projects with real-world industry applications) Tj
+ET
+BT
+/F1 12 Tf
+50 376 Td
+(PROFESSIONAL CERTIFICATIONS & TRAINING) Tj
+ET
+BT
+/F5 9 Tf
+60 363 Td
+(\226) Tj
+/F5 9 Tf
+70 363 Td
+(Telecom Package - Technical Training | AFRO Academy) Tj
+ET
+BT
+/F5 9 Tf
+60 352 Td
+(\226) Tj
+/F5 9 Tf
+70 352 Td
+(GSM, GPRS, EDGE and 2G Drive Test and Post-Processing | Netova) Tj
+ET
+BT
+/F5 9 Tf
+60 341 Td
+(\226) Tj
+/F5 9 Tf
+70 341 Td
+(CDMA, UMTS, HSPA and 3G Drive Test and Post-Processing | Netova) Tj
+ET
+BT
+/F5 9 Tf
+60 330 Td
+(\226) Tj
+/F5 9 Tf
+70 330 Td
+(LTE, LTE-A, LTE-A Pro and 4G Network Planning | Netova) Tj
+ET
+BT
+/F5 9 Tf
+60 319 Td
+(\226) Tj
+/F5 9 Tf
+70 319 Td
+(5G SA, 5G NSA and 5G RF Planning and Design | Netova) Tj
+ET
+BT
+/F5 9 Tf
+60 308 Td
+(\226) Tj
+/F5 9 Tf
+70 308 Td
+(Telecom and RF Engineering Fundamentals Training | Netova) Tj
+ET
+BT
+/F1 12 Tf
+50 285 Td
+(KEY TECHNICAL PROJECT) Tj
+ET
+BT
+/F2 10 Tf
+50 272 Td
+(AI-Based Smart Network Monitoring and Failure Prediction System) Tj
+ET
+BT
+/F5 9 Tf
+60 259 Td
+(\226) Tj
+/F5 9 Tf
+70 259 Td
+(Architected and implemented an advanced AI-driven monitoring system for real-time network performance analytics) Tj
+ET
+BT
+/F5 9 Tf
+60 248 Td
+(\226) Tj
+/F5 9 Tf
+70 248 Td
+(Engineered comprehensive data collection and processing pipeline capturing RSSI, RSRP, RSRQ, SINR, latency, packet loss) Tj
+ET
+BT
+/F5 9 Tf
+60 237 Td
+(\226) Tj
+/F5 9 Tf
+70 237 Td
+(Developed and trained Random Forest machine learning model achieving accurate predictions of network stability) Tj
+ET
+BT
+/F5 9 Tf
+60 226 Td
+(\226) Tj
+/F5 9 Tf
+70 226 Td
+(Seamlessly integrated multiple IoT devices including Raspberry Pi and ESP modules with cloud-based services) Tj
+ET
+BT
+/F5 9 Tf
+60 215 Td
+(\226) Tj
+/F5 9 Tf
+70 215 Td
+(Synthesized telecommunications expertise with modern machine learning to address critical network challenges) Tj
+ET
+BT
+/F5 9 Tf
+60 204 Td
+(Technologies: Python, Random Forest Algorithm, IoT Platforms, Cloud Services, Data Analytics) Tj
+ET
+BT
+/F1 12 Tf
+50 181 Td
+(TECHNICAL SKILLS BREAKDOWN) Tj
+ET
+BT
+/F2 9 Tf
+50 168 Td
+(Network Technologies:) Tj
+/F5 9 Tf
+180 168 Td
+(1G, 2G, 3G, 4G, 5G | GSM, GPRS, EDGE, CDMA, UMTS, HSPA, LTE, LTE-A, 5G SA/NSA) Tj
+ET
+BT
+/F2 9 Tf
+50 157 Td
+(Network Analysis & Tools:) Tj
+/F5 9 Tf
+180 157 Td
+(Drive Testing, Post-Processing, Network Planning, 5G RF Planning, TEMS Investigation) Tj
+ET
+BT
+/F2 9 Tf
+50 146 Td
+(Software & Platforms:) Tj
+/F5 9 Tf
+180 146 Td
+(Python, Random Forest ML, Raspberry Pi, ESP modules, Cloud Services, Network Simulators) Tj
+ET
+BT
+/F1 12 Tf
+50 123 Td
+(PROFESSIONAL ATTRIBUTES) Tj
+ET
+BT
+/F5 9 Tf
+60 110 Td
+(\226) Tj
+/F5 9 Tf
+70 110 Td
+(Communication: Excellent interpersonal skills with ability to explain complex technical concepts clearly) Tj
+ET
+BT
+/F5 9 Tf
+60 99 Td
+(\226) Tj
+/F5 9 Tf
+70 99 Td
+(Analytical Skills: Strong capability in data analysis, RF parameter interpretation, and performance troubleshooting) Tj
+ET
+BT
+/F5 9 Tf
+60 88 Td
+(\226) Tj
+/F5 9 Tf
+70 88 Td
+(Time Management: Effective project prioritization and deadline management in fast-paced environments) Tj
+ET
+BT
+/F1 12 Tf
+50 65 Td
+(LANGUAGES) Tj
+ET
+BT
+/F5 9 Tf
+60 52 Td
+(\226) Tj
+/F5 9 Tf
+70 52 Td
+(Arabic: Native Fluency) Tj
+ET
+BT
+/F5 9 Tf
+60 41 Td
+(\226) Tj
+/F5 9 Tf
+70 41 Td
+(English: Professional Proficiency - suitable for technical documentation and workplace communication) Tj
+ET
+endstream
 endobj
 xref
 0 8
@@ -184,12 +370,15 @@ xref
 0000000009 00000 n 
 0000000058 00000 n 
 0000000115 00000 n 
-0000000265 00000 n 
-0000008814 00000 n 
-0000008893 00000 n 
-0000008972 00000 n 
+0000000214 00000 n 
+0000000293 00000 n 
+0000000371 00000 n 
+0000000453 00000 n 
 trailer
-<< /Size 8 /Root 1 0 R >>
+<<
+/Size 8
+/Root 1 0 R
+>>
 startxref
-9051
+7303
 %%EOF
